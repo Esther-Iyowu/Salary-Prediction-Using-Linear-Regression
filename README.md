@@ -143,14 +143,14 @@ Data Visualization
 ### 8. Salary Prediction by Years of Experience
 
 
-*This visualization illustrates the relationship between years of work experience and predicted salary outcomes.*
+
 
 
 ![Salary Prediction Analysis](Salary%20Prediction%20Analysis%20Prediction.png)
 
 
 
-
+*This visualization illustrates the relationship between years of work experience and predicted salary outcomes.*
 
 
 ---
