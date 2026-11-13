@@ -131,7 +131,14 @@ Predictive Analysis
 Data Visualization
 
 ---
-### 7. Conclusion
+### 7.Dashboard
+
+
+
+
+
+---
+### 8. Conclusion
 ---
 This project shows how you can implement mathematical and statistical concepts in Power BI using DAX.
 
