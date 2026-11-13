@@ -117,7 +117,12 @@ Power BI was used to communicate the relationship between experience and salary 
 
 ---
 
-### 6. 
+ ### 6. Calculation Summary
+
+![Calculation Summary](Regression%20Analysis%20Calculations.png)
+
+*Summary cards showing the calculated intercept measure alongside the other key model values.*
+
 
 ---
 ### 7. Key Analytical Concepts
