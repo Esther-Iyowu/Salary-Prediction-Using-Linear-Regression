@@ -116,7 +116,11 @@ Step 7: Visualization
 Power BI was used to communicate the relationship between experience and salary and present the salary prediction analysis.
 
 ---
-### 6. Key Analytical Concepts
+
+### 6. 
+
+---
+### 7. Key Analytical Concepts
 ---
 Simple Linear Regression
 
@@ -131,14 +135,21 @@ Predictive Analysis
 Data Visualization
 
 ---
-### 7.Dashboard
+### 8. Salary Prediction by Years of Experience
+
+
+*This visualization illustrates the relationship between years of work experience and predicted salary outcomes.*
+
+
+![Salary Prediction Analysis](Salary%20Prediction%20Analysis%20Prediction.png)
+
 
 
 
 
 
 ---
-### 8. Conclusion
+### 9. Conclusion
 ---
 This project shows how you can implement mathematical and statistical concepts in Power BI using DAX.
 
